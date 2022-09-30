@@ -1,6 +1,6 @@
 Synopsis
 ========
-This project implements a Software system for navigation and frontier based exploration for mobile robotic platforms (Turtlebots).
+I had great fun developing this project during my tenure in CRISS Robotics, an autonomous Mars Rover team I founded at my University, BITS Pilani. I mainly used ROS, Python and Turtlebot2 for implementing the software system for navigation and frontier based exploration.
 
 Description
 ========
